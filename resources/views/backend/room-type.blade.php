@@ -159,5 +159,5 @@ var TEXT = [];
 	TEXT['Please select record'] = "{{ __('Please select record') }}";
 	TEXT['All Category'] = "{{ __('All Category') }}";
 </script>
-<script src="{{asset('public/backend/pages/room_type.js')}}"></script>
+<script src="{{asset('backend/pages/room_type.js')}}"></script>
 @endpush

@@ -90,5 +90,5 @@
 var Activated = "{{ __('Activated') }}";
 var Activate = "{{ __('Activate') }}";
 </script>
-<script src="{{asset('public/backend/pages/page_variation.js')}}"></script>
+<script src="{{asset('backend/pages/page_variation.js')}}"></script>
 @endpush

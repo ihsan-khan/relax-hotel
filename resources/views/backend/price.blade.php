@@ -76,5 +76,5 @@
 
 @push('scripts')
 <!-- css/js -->
-<script src="{{asset('public/backend/pages/price.js')}}"></script>
+<script src="{{asset('backend/pages/price.js')}}"></script>
 @endpush

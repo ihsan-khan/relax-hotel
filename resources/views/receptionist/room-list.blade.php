@@ -61,5 +61,5 @@
 
 @push('scripts')
 <!-- css/js -->
-<script src="{{asset('public/backend/pages/receptionist_room_list.js')}}"></script>
+<script src="{{asset('backend/pages/receptionist_room_list.js')}}"></script>
 @endpush

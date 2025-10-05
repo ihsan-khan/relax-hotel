@@ -97,5 +97,5 @@
 <script type="text/javascript">
 var media_type = 'Thumbnail';
 </script>
-<script src="{{asset('public/backend/pages/receptionist_profile.js')}}"></script>
+<script src="{{asset('backend/pages/receptionist_profile.js')}}"></script>
 @endpush

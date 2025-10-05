@@ -121,5 +121,5 @@ var TEXT = [];
 	TEXT['Enable'] = "{{ __('Enable') }}";
 	TEXT['Disable'] = "{{ __('Disable') }}";
 </script>
-<script src="{{asset('public/backend/pages/languages.js')}}"></script>
+<script src="{{asset('backend/pages/languages.js')}}"></script>
 @endpush

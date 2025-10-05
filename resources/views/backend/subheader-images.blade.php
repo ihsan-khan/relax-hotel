@@ -267,6 +267,6 @@ if(booking_bg != ''){
 }
 
 </script>
-<script src="{{asset('public/backend/pages/subheader-images.js')}}"></script>
-<script src="{{asset('public/backend/pages/global-media.js')}}"></script>
+<script src="{{asset('backend/pages/subheader-images.js')}}"></script>
+<script src="{{asset('backend/pages/global-media.js')}}"></script>
 @endpush

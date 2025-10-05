@@ -81,6 +81,6 @@ var room_id = "{{ $datalist['id'] }}";
 var TEXT = [];
 	TEXT['Do you really want to delete this record'] = "{{ __('Do you really want to delete this record') }}";
 </script>
-<script src="{{asset('public/backend/pages/room_images.js')}}"></script>
-<script src="{{asset('public/backend/pages/global-media.js')}}"></script>
+<script src="{{asset('backend/pages/room_images.js')}}"></script>
+<script src="{{asset('backend/pages/global-media.js')}}"></script>
 @endpush

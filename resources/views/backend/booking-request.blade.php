@@ -97,5 +97,5 @@ $(function () {
 	});
 });
 </script>
-<script src="{{asset('public/backend/pages/booking_request.js')}}"></script>
+<script src="{{asset('backend/pages/booking_request.js')}}"></script>
 @endpush

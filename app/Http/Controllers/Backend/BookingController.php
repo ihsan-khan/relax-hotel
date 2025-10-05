@@ -571,7 +571,7 @@ class BookingController extends Controller
 		$res = array();
 		$gtext = gtext();
 		$gtax = getTax();
-
+	
 		$roomtype_id = $request->input('roomtype');
 		$total_room = $request->input('room');
 		

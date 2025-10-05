@@ -139,5 +139,5 @@ var TEXT = [];
 	TEXT['Please select action'] = "{{ __('Please select action') }}";
 	TEXT['Please select record'] = "{{ __('Please select record') }}";
 </script>
-<script src="{{asset('public/backend/pages/social_media.js')}}"></script>
+<script src="{{asset('backend/pages/social_media.js')}}"></script>
 @endpush

@@ -354,5 +354,5 @@ var TEXT = [];
 	TEXT['Already Assigned'] = "{{ __('Already Assigned') }}";
 	TEXT['Room'] = "{{ __('Room') }}";
 </script>
-<script src="{{asset('public/backend/pages/receptionist_booking.js')}}"></script>
+<script src="{{asset('backend/pages/receptionist_booking.js')}}"></script>
 @endpush

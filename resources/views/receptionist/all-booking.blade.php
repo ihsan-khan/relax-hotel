@@ -174,5 +174,5 @@ $(function () {
 	});
 });
 </script>
-<script src="{{asset('public/backend/pages/receptionist_all_booking.js')}}"></script>
+<script src="{{asset('backend/pages/receptionist_all_booking.js')}}"></script>
 @endpush
